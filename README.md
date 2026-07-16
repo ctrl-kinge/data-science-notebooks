@@ -8,6 +8,7 @@ Part of a daily-practice system; one narrated analysis lands here every week.
 | # | Notebook | Dataset | Topics |
 |---|----------|---------|--------|
 | 01 | [Online Retail EDA](notebooks/01_online_retail_eda.ipynb) | UCI Online Retail | data cleaning, revenue trends, time series |
+| 02 | [Seasonality Deep-Dive](notebooks/02_seasonality_deep_dive.ipynb) | UCI Online Retail | day-of-week effects, autocorrelation, decomposition |
 
 ## Setup
 
